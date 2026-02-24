@@ -1,2 +1,2 @@
-# black-hole-dynamics-
+# black-hole-dynamics
 the dynamical evolution of black holes
